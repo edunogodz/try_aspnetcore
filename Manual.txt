@@ -1,0 +1,21 @@
+Create on VS2015 a new project asp net, empty and MVC
+
+Create in the Controllers Folder a class: HomeController.cs
+
+Create in the Models Folder a class: Home.cs
+
+Create in the Viewv Folder a folder named: Home
+and a MVC5 View Page(Razor) named: Index.cshtml
+
+In this page Index.cshtml input
+@model String
+    <h2>Characters:</h2>
+    <div>
+        <ul>
+            <li>@Model</li>
+        </ul>
+    
+    </div>
+
+@model = Lowercase “defines the type of data coming into the view”
+@Model = Uppercase “accesses the model data passed into the view”
