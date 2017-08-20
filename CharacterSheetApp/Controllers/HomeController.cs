@@ -12,11 +12,16 @@ namespace CharacterSheetApp.Controllers
     {
         public IActionResult Index()
         {
-            var model = new Character();
-            model.Name = "Teste";
-            return View(model);
+            return View();
         }
 
+        public IActionResult Create(string characterName)
+        {
+            var model = new Character();
+            model.Name = characterName;
+
+            return View("Index",model);
+        }
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";

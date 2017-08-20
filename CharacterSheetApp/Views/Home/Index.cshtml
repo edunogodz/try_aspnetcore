@@ -1,8 +1,9 @@
 ﻿@model CharacterSheetApp.Models.Character
 <h2>Characters:</h2>
 
-<div>
-    <ul>
-        <li>@Model.Name</li>
-    </ul>
-</div>
+<form asp-action="Create">
+    <div>
+        <input  name="CharacterName" />
+        <input type="submit" value="Add Character" />
+    </div>
+</form>
