@@ -1,0 +1,10 @@
+D:\Learn\Codeschool\try_aspnetcore\CharacterSheetApp\bin\Debug\netcoreapp2.0\CharacterSheetApp.deps.json
+D:\Learn\Codeschool\try_aspnetcore\CharacterSheetApp\bin\Debug\netcoreapp2.0\CharacterSheetApp.runtimeconfig.json
+D:\Learn\Codeschool\try_aspnetcore\CharacterSheetApp\bin\Debug\netcoreapp2.0\CharacterSheetApp.runtimeconfig.dev.json
+D:\Learn\Codeschool\try_aspnetcore\CharacterSheetApp\bin\Debug\netcoreapp2.0\CharacterSheetApp.dll
+D:\Learn\Codeschool\try_aspnetcore\CharacterSheetApp\bin\Debug\netcoreapp2.0\CharacterSheetApp.pdb
+D:\Learn\Codeschool\try_aspnetcore\CharacterSheetApp\obj\Debug\netcoreapp2.0\CharacterSheetApp.csproj.CoreCompileInputs.cache
+D:\Learn\Codeschool\try_aspnetcore\CharacterSheetApp\obj\Debug\netcoreapp2.0\CharacterSheetApp.AssemblyInfoInputs.cache
+D:\Learn\Codeschool\try_aspnetcore\CharacterSheetApp\obj\Debug\netcoreapp2.0\CharacterSheetApp.AssemblyInfo.cs
+D:\Learn\Codeschool\try_aspnetcore\CharacterSheetApp\obj\Debug\netcoreapp2.0\CharacterSheetApp.dll
+D:\Learn\Codeschool\try_aspnetcore\CharacterSheetApp\obj\Debug\netcoreapp2.0\CharacterSheetApp.pdb
