@@ -12,15 +12,14 @@ namespace CharacterSheetApp.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            return View(Models.Character.GetAll());
         }
 
         public IActionResult Create(string characterName)
         {
-            var model = new Character();
-            model.Name = characterName;
+            Models.Character.Create(characterName);
 
-            return View("Index",model);
+            return RedirectToAction("Index");
         }
         public IActionResult About()
         {
